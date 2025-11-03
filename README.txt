@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site highlights my projects, skills, and experience in data analytics.
 
-🌐 **Live Site**: [https://fiza1181.github.io/ferryPortfolio/](https://fiza1181.github.io/ferryPortfolio/)
+🌐 **Live Site**: [https://fiza1181.github.io/ferryPortfolio/]
 
 ---
 
@@ -45,5 +45,6 @@ This website uses the **Massively** theme by [HTML5 UP](https://html5up.net), fr
 - **Demo Images**: Unsplash (not included)  
 - **Icons**: Font Awesome  
 - **JS Libraries**: jQuery, Scrollex, Responsive Tools  
+
 
 
